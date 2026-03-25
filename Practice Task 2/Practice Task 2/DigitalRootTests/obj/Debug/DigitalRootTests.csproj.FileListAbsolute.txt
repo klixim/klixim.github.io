@@ -1,0 +1,24 @@
+C:\Users\klixim\source\repos\Practice Task 2\DigitalRootTests\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\klixim\source\repos\Practice Task 2\DigitalRootTests\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\klixim\source\repos\Practice Task 2\DigitalRootTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\klixim\source\repos\Practice Task 2\DigitalRootTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\klixim\source\repos\Practice Task 2\DigitalRootTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\klixim\source\repos\Practice Task 2\DigitalRootTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\klixim\source\repos\Practice Task 2\DigitalRootTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\klixim\source\repos\Practice Task 2\DigitalRootTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\klixim\source\repos\Practice Task 2\DigitalRootTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\klixim\source\repos\Practice Task 2\DigitalRootTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\klixim\source\repos\Practice Task 2\DigitalRootTests\bin\Debug\DigitalRootTests.dll
+C:\Users\klixim\source\repos\Practice Task 2\DigitalRootTests\bin\Debug\DigitalRootTests.pdb
+C:\Users\klixim\source\repos\Practice Task 2\DigitalRootTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\klixim\source\repos\Practice Task 2\DigitalRootTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\klixim\source\repos\Practice Task 2\DigitalRootTests\bin\Debug\Practice Task 2.exe
+C:\Users\klixim\source\repos\Practice Task 2\DigitalRootTests\bin\Debug\Practice Task 2.pdb
+C:\Users\klixim\source\repos\Practice Task 2\DigitalRootTests\bin\Debug\Practice Task 2.exe.config
+C:\Users\klixim\source\repos\Practice Task 2\DigitalRootTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\klixim\source\repos\Practice Task 2\DigitalRootTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\klixim\source\repos\Practice Task 2\DigitalRootTests\obj\Debug\DigitalRootTests.csproj.AssemblyReference.cache
+C:\Users\klixim\source\repos\Practice Task 2\DigitalRootTests\obj\Debug\DigitalRootTests.csproj.CoreCompileInputs.cache
+C:\Users\klixim\source\repos\Practice Task 2\DigitalRootTests\obj\Debug\DigitalR.14AC1834.Up2Date
+C:\Users\klixim\source\repos\Practice Task 2\DigitalRootTests\obj\Debug\DigitalRootTests.dll
+C:\Users\klixim\source\repos\Practice Task 2\DigitalRootTests\obj\Debug\DigitalRootTests.pdb

@@ -1,0 +1,10 @@
+C:\Users\klixim\source\repos\Practice Task 2\Practice Task 2\obj\Debug\Practice Task 2.csproj.AssemblyReference.cache
+C:\Users\klixim\source\repos\Practice Task 2\Practice Task 2\obj\Debug\Practice_Task_2.Form1.resources
+C:\Users\klixim\source\repos\Practice Task 2\Practice Task 2\obj\Debug\Practice_Task_2.Properties.Resources.resources
+C:\Users\klixim\source\repos\Practice Task 2\Practice Task 2\obj\Debug\Practice Task 2.csproj.GenerateResource.cache
+C:\Users\klixim\source\repos\Practice Task 2\Practice Task 2\obj\Debug\Practice Task 2.csproj.CoreCompileInputs.cache
+C:\Users\klixim\source\repos\Practice Task 2\Practice Task 2\bin\Debug\Practice Task 2.exe.config
+C:\Users\klixim\source\repos\Practice Task 2\Practice Task 2\bin\Debug\Practice Task 2.exe
+C:\Users\klixim\source\repos\Practice Task 2\Practice Task 2\bin\Debug\Practice Task 2.pdb
+C:\Users\klixim\source\repos\Practice Task 2\Practice Task 2\obj\Debug\Practice Task 2.exe
+C:\Users\klixim\source\repos\Practice Task 2\Practice Task 2\obj\Debug\Practice Task 2.pdb

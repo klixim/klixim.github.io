@@ -1,0 +1,14 @@
+C:\Users\klixim\source\repos\Practice Task 5\Practice Task 5\obj\Debug\Practice Task 5.csproj.AssemblyReference.cache
+C:\Users\klixim\source\repos\Practice Task 5\Practice Task 5\obj\Debug\Practice_Task_5.Properties.Resources.resources
+C:\Users\klixim\source\repos\Practice Task 5\Practice Task 5\obj\Debug\Practice Task 5.csproj.GenerateResource.cache
+C:\Users\klixim\source\repos\Practice Task 5\Practice Task 5\obj\Debug\Practice Task 5.csproj.CoreCompileInputs.cache
+C:\Users\klixim\source\repos\Practice Task 5\Practice Task 5\bin\Debug\Practice Task 5.exe.config
+C:\Users\klixim\source\repos\Practice Task 5\Practice Task 5\bin\Debug\Practice Task 5.exe
+C:\Users\klixim\source\repos\Practice Task 5\Practice Task 5\bin\Debug\Practice Task 5.pdb
+C:\Users\klixim\source\repos\Practice Task 5\Practice Task 5\bin\Debug\DictionaryLibrary.dll
+C:\Users\klixim\source\repos\Practice Task 5\Practice Task 5\bin\Debug\DictionaryLibrary.pdb
+C:\Users\klixim\source\repos\Practice Task 5\Practice Task 5\obj\Debug\Practice_Task_5.Form1.resources
+C:\Users\klixim\source\repos\Practice Task 5\Practice Task 5\obj\Debug\Practice.C5FE4B85.Up2Date
+C:\Users\klixim\source\repos\Practice Task 5\Practice Task 5\obj\Debug\Practice Task 5.exe
+C:\Users\klixim\source\repos\Practice Task 5\Practice Task 5\obj\Debug\Practice Task 5.pdb
+C:\Users\klixim\source\repos\Practice Task 5\Practice Task 5\obj\Debug\Practice Task 5.exe.config

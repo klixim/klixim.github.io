@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\klixim\\source\\repos\\Practice Task 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA791CC-9C3C-4DA1-9443-0ECC47E31743}|DigitalRootTests\\DigitalRootTests.csproj|c:\\users\\klixim\\source\\repos\\practice task 2\\digitalroottests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA791CC-9C3C-4DA1-9443-0ECC47E31743}|DigitalRootTests\\DigitalRootTests.csproj|solutionrelative:digitalroottests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14707487-2DFB-41F8-BDF0-7C7B4C43709B}|Practice Task 2\\Practice Task 2.csproj|c:\\users\\klixim\\source\\repos\\practice task 2\\practice task 2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14707487-2DFB-41F8-BDF0-7C7B4C43709B}|Practice Task 2\\Practice Task 2.csproj|solutionrelative:practice task 2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14707487-2DFB-41F8-BDF0-7C7B4C43709B}|Practice Task 2\\Practice Task 2.csproj|c:\\users\\klixim\\source\\repos\\practice task 2\\practice task 2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14707487-2DFB-41F8-BDF0-7C7B4C43709B}|Practice Task 2\\Practice Task 2.csproj|solutionrelative:practice task 2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14707487-2DFB-41F8-BDF0-7C7B4C43709B}|Practice Task 2\\Practice Task 2.csproj|c:\\users\\klixim\\source\\repos\\practice task 2\\practice task 2\\digitalrootcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14707487-2DFB-41F8-BDF0-7C7B4C43709B}|Practice Task 2\\Practice Task 2.csproj|solutionrelative:practice task 2\\digitalrootcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14707487-2DFB-41F8-BDF0-7C7B4C43709B}|Practice Task 2\\Practice Task 2.csproj|c:\\users\\klixim\\source\\repos\\practice task 2\\practice task 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14707487-2DFB-41F8-BDF0-7C7B4C43709B}|Practice Task 2\\Practice Task 2.csproj|solutionrelative:practice task 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14707487-2DFB-41F8-BDF0-7C7B4C43709B}|Practice Task 2\\Practice Task 2.csproj|c:\\users\\klixim\\source\\repos\\practice task 2\\practice task 2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14707487-2DFB-41F8-BDF0-7C7B4C43709B}|Practice Task 2\\Practice Task 2.csproj|solutionrelative:practice task 2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\source\\repos\\Practice Task 2\\DigitalRootTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "DigitalRootTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\klixim\\source\\repos\\Practice Task 2\\DigitalRootTests\\UnitTest1.cs",
+              "RelativeToolTip": "DigitalRootTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T07:11:53.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\source\\repos\\Practice Task 2\\Practice Task 2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Practice Task 2\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\klixim\\source\\repos\\Practice Task 2\\Practice Task 2\\Form1.Designer.cs",
+              "RelativeToolTip": "Practice Task 2\\Form1.Designer.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T07:10:42.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\source\\repos\\Practice Task 2\\Practice Task 2\\Program.cs",
+              "RelativeDocumentMoniker": "Practice Task 2\\Program.cs",
+              "ToolTip": "C:\\Users\\klixim\\source\\repos\\Practice Task 2\\Practice Task 2\\Program.cs",
+              "RelativeToolTip": "Practice Task 2\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T07:09:41.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DigitalRootCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\source\\repos\\Practice Task 2\\Practice Task 2\\DigitalRootCalculator.cs",
+              "RelativeDocumentMoniker": "Practice Task 2\\DigitalRootCalculator.cs",
+              "ToolTip": "C:\\Users\\klixim\\source\\repos\\Practice Task 2\\Practice Task 2\\DigitalRootCalculator.cs",
+              "RelativeToolTip": "Practice Task 2\\DigitalRootCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T07:08:46.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\source\\repos\\Practice Task 2\\Practice Task 2\\Form1.cs",
+              "RelativeDocumentMoniker": "Practice Task 2\\Form1.cs",
+              "ToolTip": "C:\\Users\\klixim\\source\\repos\\Practice Task 2\\Practice Task 2\\Form1.cs",
+              "RelativeToolTip": "Practice Task 2\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T07:07:14.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\klixim\\source\\repos\\Practice Task 2\\Practice Task 2\\Form1.cs",
+              "RelativeDocumentMoniker": "Practice Task 2\\Form1.cs",
+              "ToolTip": "C:\\Users\\klixim\\source\\repos\\Practice Task 2\\Practice Task 2\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Practice Task 2\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T07:07:02.155Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

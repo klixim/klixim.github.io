@@ -1,0 +1,11 @@
+C:\Users\klixim\source\repos\Practice Task 4\Practice Task 4\obj\Debug\Practice Task 4.csproj.AssemblyReference.cache
+C:\Users\klixim\source\repos\Practice Task 4\Practice Task 4\obj\Debug\Practice_Task_4.Form1.resources
+C:\Users\klixim\source\repos\Practice Task 4\Practice Task 4\obj\Debug\Practice_Task_4.Properties.Resources.resources
+C:\Users\klixim\source\repos\Practice Task 4\Practice Task 4\obj\Debug\Practice Task 4.csproj.GenerateResource.cache
+C:\Users\klixim\source\repos\Practice Task 4\Practice Task 4\obj\Debug\Practice Task 4.csproj.CoreCompileInputs.cache
+C:\Users\klixim\source\repos\Practice Task 4\Practice Task 4\bin\Debug\Practice Task 4.exe.config
+C:\Users\klixim\source\repos\Practice Task 4\Practice Task 4\bin\Debug\Practice Task 4.exe
+C:\Users\klixim\source\repos\Practice Task 4\Practice Task 4\bin\Debug\Practice Task 4.pdb
+C:\Users\klixim\source\repos\Practice Task 4\Practice Task 4\obj\Debug\Practice Task 4.exe
+C:\Users\klixim\source\repos\Practice Task 4\Practice Task 4\obj\Debug\Practice Task 4.pdb
+C:\Users\klixim\source\repos\Practice Task 4\Practice Task 4\obj\Debug\Practice Task 4.exe.config
