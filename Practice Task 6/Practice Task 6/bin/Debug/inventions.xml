@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<inventions>
+	<theme name="XVIII век">
+		<level difficulty="1">
+			<question>
+				<invention>Паровой двигатель</invention>
+				<image>images/steam_engine.jpg</image>
+				<answers>
+					<answer correct="false">Ньюкомен</answer>
+					<answer correct="true">Джеймс Уатт</answer>
+					<answer correct="false">Томас Эдисон</answer>
+					<answer correct="false">Никола Тесла</answer>
+				</answers>
+				<hint>Усовершенствовал паровую машину в 1776 году, что дало начало промышленной революции.</hint>
+			</question>
+			<question>
+				<invention>Парашют</invention>
+				<image>images/parachute.jpg</image>
+				<answers>
+					<answer correct="true">Луи-Себастьян Ленорман</answer>
+					<answer correct="false">Леонардо да Винчи</answer>
+					<answer correct="false">Фауст Вранчич</answer>
+					<answer correct="false">Андре-Жак Гарнерен</answer>
+				</answers>
+				<hint>В 1783 году этот французский физик совершил первый прыжок с парашютом с башни обсерватории.</hint>
+			</question>
+			<question>
+				<invention>Бифокальные очки</invention>
+				<image>images/bifocals.jpg</image>
+				<answers>
+					<answer correct="false">Галилео Галилей</answer>
+					<answer correct="false">Исаак Ньютон</answer>
+					<answer correct="true">Бенджамин Франклин</answer>
+					<answer correct="false">Иоганн Кеплер</answer>
+				</answers>
+				<hint>Изобретатель, один из отцов-основателей США, страдал от пресбиопии и миопии одновременно.</hint>
+			</question>
+		</level>
+		<level difficulty="2">
+			<question>
+				<invention>Громоотвод</invention>
+				<image>images/lightning_rod.jpg</image>
+				<answers>
+					<answer correct="true">Бенджамин Франклин</answer>
+					<answer correct="false">Майкл Фарадей</answer>
+					<answer correct="false">Алессандро Вольта</answer>
+					<answer correct="false">Никола Тесла</answer>
+				</answers>
+				<hint>Знаменитый эксперимент с воздушным змеем в грозу помог доказать электрическую природу молнии.</hint>
+			</question>
+		</level>
+		<level difficulty="3">
+			<question>
+				<invention>Первый дирижабль</invention>
+				<image>images/airship.jpg</image>
+				<answers>
+					<answer correct="true">Жан-Батист Мари Шарль</answer>
+					<answer correct="false">Братья Монгольфье</answer>
+					<answer correct="false">Фердинанд фон Цеппелин</answer>
+					<answer correct="false">Альберто Сантос-Дюмон</answer>
+				</answers>
+				<hint>В 1783 году этот изобретатель создал дирижабль, наполненный водородом.</hint>
+			</question>
+		</level>
+	</theme>
+	<theme name="XIX век">
+		<level difficulty="1">
+			<question>
+				<invention>Телефон</invention>
+				<image>images/telephone.jpg</image>
+				<answers>
+					<answer correct="true">Александр Белл</answer>
+					<answer correct="false">Томас Эдисон</answer>
+					<answer correct="false">Гульельмо Маркони</answer>
+					<answer correct="false">Александр Попов</answer>
+				</answers>
+				<hint>Патент на это изобретение был получен в 1876 году.</hint>
+			</question>
+			<question>
+				<invention>Лампочка накаливания</invention>
+				<image>images/lightbulb.jpg</image>
+				<answers>
+					<answer correct="false">Никола Тесла</answer>
+					<answer correct="true">Томас Эдисон</answer>
+					<answer correct="false">Джозеф Сван</answer>
+					<answer correct="false">Александр Лодыгин</answer>
+				</answers>
+				<hint>В 1879 году этот изобретатель создал первую коммерчески успешную лампу накаливания.</hint>
+			</question>
+		</level>
+		<level difficulty="2">
+			<question>
+				<invention>Радио</invention>
+				<image>images/radio.jpg</image>
+				<answers>
+					<answer correct="false">Никола Тесла</answer>
+					<answer correct="true">Александр Попов</answer>
+					<answer correct="false">Гульельмо Маркони</answer>
+					<answer correct="false">Генрих Герц</answer>
+				</answers>
+				<hint>Русский физик, который в 1895 году продемонстрировал первый в мире радиоприемник.</hint>
+			</question>
+		</level>
+	</theme>
+</inventions>

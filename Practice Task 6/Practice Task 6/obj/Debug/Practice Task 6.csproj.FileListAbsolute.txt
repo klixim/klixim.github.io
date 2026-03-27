@@ -1,0 +1,13 @@
+C:\Users\klixim\source\repos\Practice Task 6\Practice Task 6\obj\Debug\Practice Task 6.csproj.AssemblyReference.cache
+C:\Users\klixim\source\repos\Practice Task 6\Practice Task 6\obj\Debug\Practice_Task_6.Forms.AdminForm.resources
+C:\Users\klixim\source\repos\Practice Task 6\Practice Task 6\obj\Debug\Practice_Task_6.Forms.GameForm.resources
+C:\Users\klixim\source\repos\Practice Task 6\Practice Task 6\obj\Debug\Practice_Task_6.Forms.MainForm.resources
+C:\Users\klixim\source\repos\Practice Task 6\Practice Task 6\obj\Debug\Practice_Task_6.Properties.Resources.resources
+C:\Users\klixim\source\repos\Practice Task 6\Practice Task 6\obj\Debug\Practice Task 6.csproj.GenerateResource.cache
+C:\Users\klixim\source\repos\Practice Task 6\Practice Task 6\obj\Debug\Practice Task 6.csproj.CoreCompileInputs.cache
+C:\Users\klixim\source\repos\Practice Task 6\Practice Task 6\bin\Debug\Practice Task 6.exe.config
+C:\Users\klixim\source\repos\Practice Task 6\Practice Task 6\bin\Debug\Practice Task 6.exe
+C:\Users\klixim\source\repos\Practice Task 6\Practice Task 6\bin\Debug\Practice Task 6.pdb
+C:\Users\klixim\source\repos\Practice Task 6\Practice Task 6\obj\Debug\Practice Task 6.exe
+C:\Users\klixim\source\repos\Practice Task 6\Practice Task 6\obj\Debug\Practice Task 6.pdb
+C:\Users\klixim\source\repos\Practice Task 6\Practice Task 6\obj\Debug\Practice Task 6.exe.config
