@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\klixim\\source\\repos\\Practice Task 7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80FEA176-2EA6-468A-856D-DF43A63C96DF}|Practice Task 7\\Practice Task 7.csproj|c:\\users\\klixim\\source\\repos\\practice task 7\\practice task 7\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FEA176-2EA6-468A-856D-DF43A63C96DF}|Practice Task 7\\Practice Task 7.csproj|solutionrelative:practice task 7\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FEA176-2EA6-468A-856D-DF43A63C96DF}|Practice Task 7\\Practice Task 7.csproj|c:\\users\\klixim\\source\\repos\\practice task 7\\practice task 7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FEA176-2EA6-468A-856D-DF43A63C96DF}|Practice Task 7\\Practice Task 7.csproj|solutionrelative:practice task 7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FEA176-2EA6-468A-856D-DF43A63C96DF}|Practice Task 7\\Practice Task 7.csproj|c:\\users\\klixim\\source\\repos\\practice task 7\\practice task 7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{80FEA176-2EA6-468A-856D-DF43A63C96DF}|Practice Task 7\\Practice Task 7.csproj|solutionrelative:practice task 7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FEA176-2EA6-468A-856D-DF43A63C96DF}|Practice Task 7\\Practice Task 7.csproj|c:\\users\\klixim\\source\\repos\\practice task 7\\practice task 7\\figures\\isoscelestrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FEA176-2EA6-468A-856D-DF43A63C96DF}|Practice Task 7\\Practice Task 7.csproj|solutionrelative:practice task 7\\figures\\isoscelestrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FEA176-2EA6-468A-856D-DF43A63C96DF}|Practice Task 7\\Practice Task 7.csproj|c:\\users\\klixim\\source\\repos\\practice task 7\\practice task 7\\figures\\isoscelestriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FEA176-2EA6-468A-856D-DF43A63C96DF}|Practice Task 7\\Practice Task 7.csproj|solutionrelative:practice task 7\\figures\\isoscelestriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FEA176-2EA6-468A-856D-DF43A63C96DF}|Practice Task 7\\Practice Task 7.csproj|c:\\users\\klixim\\source\\repos\\practice task 7\\practice task 7\\figures\\righttriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FEA176-2EA6-468A-856D-DF43A63C96DF}|Practice Task 7\\Practice Task 7.csproj|solutionrelative:practice task 7\\figures\\righttriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FEA176-2EA6-468A-856D-DF43A63C96DF}|Practice Task 7\\Practice Task 7.csproj|c:\\users\\klixim\\source\\repos\\practice task 7\\practice task 7\\figures\\equilateraltriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FEA176-2EA6-468A-856D-DF43A63C96DF}|Practice Task 7\\Practice Task 7.csproj|solutionrelative:practice task 7\\figures\\equilateraltriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FEA176-2EA6-468A-856D-DF43A63C96DF}|Practice Task 7\\Practice Task 7.csproj|c:\\users\\klixim\\source\\repos\\practice task 7\\practice task 7\\utilities\\selectionmarker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FEA176-2EA6-468A-856D-DF43A63C96DF}|Practice Task 7\\Practice Task 7.csproj|solutionrelative:practice task 7\\utilities\\selectionmarker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FEA176-2EA6-468A-856D-DF43A63C96DF}|Practice Task 7\\Practice Task 7.csproj|c:\\users\\klixim\\source\\repos\\practice task 7\\practice task 7\\utilities\\stackmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FEA176-2EA6-468A-856D-DF43A63C96DF}|Practice Task 7\\Practice Task 7.csproj|solutionrelative:practice task 7\\utilities\\stackmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FEA176-2EA6-468A-856D-DF43A63C96DF}|Practice Task 7\\Practice Task 7.csproj|c:\\users\\klixim\\source\\repos\\practice task 7\\practice task 7\\utilities\\stroke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FEA176-2EA6-468A-856D-DF43A63C96DF}|Practice Task 7\\Practice Task 7.csproj|solutionrelative:practice task 7\\utilities\\stroke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FEA176-2EA6-468A-856D-DF43A63C96DF}|Practice Task 7\\Practice Task 7.csproj|c:\\users\\klixim\\source\\repos\\practice task 7\\practice task 7\\figures\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FEA176-2EA6-468A-856D-DF43A63C96DF}|Practice Task 7\\Practice Task 7.csproj|solutionrelative:practice task 7\\figures\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\source\\repos\\Practice Task 7\\Practice Task 7\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Practice Task 7\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\klixim\\source\\repos\\Practice Task 7\\Practice Task 7\\Form1.Designer.cs",
+              "RelativeToolTip": "Practice Task 7\\Form1.Designer.cs",
+              "ViewState": "AgIAAEQBAAAAAAAAAAAmwFEBAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T10:20:48.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\source\\repos\\Practice Task 7\\Practice Task 7\\Form1.cs",
+              "RelativeDocumentMoniker": "Practice Task 7\\Form1.cs",
+              "ToolTip": "C:\\Users\\klixim\\source\\repos\\Practice Task 7\\Practice Task 7\\Form1.cs",
+              "RelativeToolTip": "Practice Task 7\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T10:18:56.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IsoscelesTrapezoid.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\source\\repos\\Practice Task 7\\Practice Task 7\\Figures\\IsoscelesTrapezoid.cs",
+              "RelativeDocumentMoniker": "Practice Task 7\\Figures\\IsoscelesTrapezoid.cs",
+              "ToolTip": "C:\\Users\\klixim\\source\\repos\\Practice Task 7\\Practice Task 7\\Figures\\IsoscelesTrapezoid.cs",
+              "RelativeToolTip": "Practice Task 7\\Figures\\IsoscelesTrapezoid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T10:17:37.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IsoscelesTriangle.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\source\\repos\\Practice Task 7\\Practice Task 7\\Figures\\IsoscelesTriangle.cs",
+              "RelativeDocumentMoniker": "Practice Task 7\\Figures\\IsoscelesTriangle.cs",
+              "ToolTip": "C:\\Users\\klixim\\source\\repos\\Practice Task 7\\Practice Task 7\\Figures\\IsoscelesTriangle.cs",
+              "RelativeToolTip": "Practice Task 7\\Figures\\IsoscelesTriangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T10:17:19.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RightTriangle.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\source\\repos\\Practice Task 7\\Practice Task 7\\Figures\\RightTriangle.cs",
+              "RelativeDocumentMoniker": "Practice Task 7\\Figures\\RightTriangle.cs",
+              "ToolTip": "C:\\Users\\klixim\\source\\repos\\Practice Task 7\\Practice Task 7\\Figures\\RightTriangle.cs",
+              "RelativeToolTip": "Practice Task 7\\Figures\\RightTriangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T10:17:02.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EquilateralTriangle.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\source\\repos\\Practice Task 7\\Practice Task 7\\Figures\\EquilateralTriangle.cs",
+              "RelativeDocumentMoniker": "Practice Task 7\\Figures\\EquilateralTriangle.cs",
+              "ToolTip": "C:\\Users\\klixim\\source\\repos\\Practice Task 7\\Practice Task 7\\Figures\\EquilateralTriangle.cs",
+              "RelativeToolTip": "Practice Task 7\\Figures\\EquilateralTriangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T10:16:41.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SelectionMarker.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\source\\repos\\Practice Task 7\\Practice Task 7\\Utilities\\SelectionMarker.cs",
+              "RelativeDocumentMoniker": "Practice Task 7\\Utilities\\SelectionMarker.cs",
+              "ToolTip": "C:\\Users\\klixim\\source\\repos\\Practice Task 7\\Practice Task 7\\Utilities\\SelectionMarker.cs",
+              "RelativeToolTip": "Practice Task 7\\Utilities\\SelectionMarker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T10:16:03.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StackMemory.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\source\\repos\\Practice Task 7\\Practice Task 7\\Utilities\\StackMemory.cs",
+              "RelativeDocumentMoniker": "Practice Task 7\\Utilities\\StackMemory.cs",
+              "ToolTip": "C:\\Users\\klixim\\source\\repos\\Practice Task 7\\Practice Task 7\\Utilities\\StackMemory.cs",
+              "RelativeToolTip": "Practice Task 7\\Utilities\\StackMemory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T10:15:45.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\klixim\\source\\repos\\Practice Task 7\\Practice Task 7\\Form1.cs",
+              "RelativeDocumentMoniker": "Practice Task 7\\Form1.cs",
+              "ToolTip": "C:\\Users\\klixim\\source\\repos\\Practice Task 7\\Practice Task 7\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Practice Task 7\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T10:01:00.776Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Stroke.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\source\\repos\\Practice Task 7\\Practice Task 7\\Utilities\\Stroke.cs",
+              "RelativeDocumentMoniker": "Practice Task 7\\Utilities\\Stroke.cs",
+              "ToolTip": "C:\\Users\\klixim\\source\\repos\\Practice Task 7\\Practice Task 7\\Utilities\\Stroke.cs",
+              "RelativeToolTip": "Practice Task 7\\Utilities\\Stroke.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T10:15:18.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Figure.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\source\\repos\\Practice Task 7\\Practice Task 7\\Figures\\Figure.cs",
+              "RelativeDocumentMoniker": "Practice Task 7\\Figures\\Figure.cs",
+              "ToolTip": "C:\\Users\\klixim\\source\\repos\\Practice Task 7\\Practice Task 7\\Figures\\Figure.cs",
+              "RelativeToolTip": "Practice Task 7\\Figures\\Figure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T10:13:34.241Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
